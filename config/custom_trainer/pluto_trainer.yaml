@@ -1,0 +1,2 @@
+_target_: src.models.pluto.pluto_trainer.LightningTrainer
+use_contrast_loss: true
